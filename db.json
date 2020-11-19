@@ -36,5 +36,73 @@
                 "code": 64
             }
         ]
-    }
+    },
+    :[
+      {
+        "id": "0d41c174-cb63-4b32-9e04-f812281fbeba",
+        "name": "Fritid og Kultur / Biblioteker og Borgerservice",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "fd94d52c-e095-4252-8d97-907eb91ac3b3",
+        "name": "Borgerservice / Borgerrådgivning",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "5b53ecea-c7fa-e711-80e1-6eae8b4038c9",
+        "name": "Biblioteker og Borgerservice / Borgerservice",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "4ef25b16-75b1-4708-93b1-82e41a78ec1e",
+        "name": "Odense Kommune / Borgmesterforvaltningen",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "ac02270a-4870-4fb8-b005-1da7c7633816",
+        "name": "Transformation og Organisation / Borgmestersekretariat og Borgerinddragelse",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "5858d8a4-0769-4ce6-9563-2c2c16f8b4e4",
+        "name": "Børneinstitution MUNKEBJERG / Børneborgen Børnehus",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "36501f5f-c9fc-4c58-b18e-eadfd6a52546",
+        "name": "CAFÉerne / Café Borgernes Hus",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "bd9970de-e693-4df5-840a-eef205ed22a7",
+        "name": "CAFÉerne / Café Skulkenborg",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "6a5dfde7-94b0-44cb-8c94-960490ee9a08",
+        "name": "Operativ Område 3 / Juniorkorps - Odense/Nyborg",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "9b1cba07-9d05-43f2-b4c9-402299c3fb6d",
+        "name": "Udbud og Kontraktstyring / Team Borger",
+        "description": "",
+        "isOrg": true
+      },
+      {
+        "id": "c6c70f83-b2e5-4d44-92f9-4ed1f770c87d",
+        "name": "Uddannelse / Uddannelsescenter Svendborg",
+        "description": "",
+        "isOrg": true
+      }
+    ]
 }
