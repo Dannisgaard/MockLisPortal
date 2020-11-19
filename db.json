@@ -1,27 +1,25 @@
 {
     "keyfigures-per-tag": {
+        "tagname": "BSF-Tema-Målgrupper",
         "keyfigures": [
             {
                 "id": 1,
-                "tagname": "BSF-Tema-Målgrupper",
                 "keyfigurename": "Antal personer - Forsikrede Ledige",
-                "keyfigureId": 48,
+                "keyFigureCatalogKeyfigureId": 48,
                 "toheadpage": true,
                 "toprofesionelpage": true
             },
             {
                 "id": 1,
-                "tagname": "BSF-Tema-Målgrupper",
                 "keyfigurename": "Sæsonkorrigeret ledighedsprocent",
-                "keyfigureId": 78,
+                "keyFigureCatalogKeyfigureId": 78,
                 "toheadpage": false,
                 "toprofesionelpage": true
             },
             {
                 "id": 1,
-                "tagname": "BSF-Tema-Målgrupper",
                 "keyfigurename": "Mandagstal - gnsn. personer i uddannelse",
-                "keyfigureId": 63,
+                "keyFigureCatalogKeyfigureId": 63,
                 "toheadpage": true,
                 "toprofesionelpage": false
             }
@@ -29,13 +27,11 @@
         "reports": [
             {
                 "id": 1,
-                "tagname": "BSF-Tema-Målgrupper",
-                "reportId": 32
+                "code": 32
             },
             {
                 "id": 22,
-                "tagname": "BSF-Tema-Målgrupper",
-                "reportId": 64
+                "code": 64
             }
         ]
     }
