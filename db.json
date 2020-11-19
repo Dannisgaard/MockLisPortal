@@ -27,10 +27,12 @@
         "reports": [
             {
                 "id": 1,
+                "title": "super raport",
                 "code": 32
             },
             {
                 "id": 22,
+                "title": "VM i flødekage spisning",
                 "code": 64
             }
         ]
